@@ -4,16 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ca97e0-5473-4879-a97f-386d42e963bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b7ca97e0-5473-4879-a97f-386d42e963bd" name="Changes" comment="demo 1">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/facades/AbstractFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/facades/SmokeTestFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/screens/MainScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/steps/SmokeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/utils/PropertiesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/tyaa/demo/test/desktop/java/utils/WinDriverSingletone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/CommandLine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/CommandLine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaNium.Driver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaNium.Driver.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaNium.Driver.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaUI.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaUI.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaUI.UIA3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/FlaUI.UIA3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/Interop.UIAutomationClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/NLog.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/NLog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/WebDriver.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/WebDriver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/WindowsInput.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FlaNium.Desktop.Driver-v1.6.0/WindowsInput.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/smoke.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/tyaa/demo/test/desktop/java/runners/Junit5CucumberRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -27,9 +70,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/yurii/IdeaProjects/work/testing/junit5-cucumber-flanium/src/test/resources",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.tyaa.demo.test.desktop.java.runners" />
+      <recent name="org.tyaa.demo.test.desktop.java.screens" />
+      <recent name="org.tyaa.demo.test.desktop.java.facades" />
+      <recent name="org.tyaa.demo.test.desktop.java.utils" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656863415218</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1656863759082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656863759082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +117,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="demo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
